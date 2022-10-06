@@ -14,3 +14,5 @@ Get All GD Folder Data
     JSON For JW Player
     Xtream Codes
     ETC..
+# API
+    https://paidcodes.albdroid.al/Google/Folder_Playlisted/
