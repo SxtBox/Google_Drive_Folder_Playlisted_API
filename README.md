@@ -14,7 +14,11 @@ Get All GD Folder Data
     Xtream Codes
     ETC..
 # API
-    https://paidcodes.albdroid.al/Google/Folder_Playlisted/
+ https://paidcodes.albdroid.al/Google/Folder_Playlisted/
+
+# HELP
+https://paidcodes.albdroid.al/Google/Folder_Playlisted/HOW_TO_USE.php
+
 Advanced API
 ![Logo](https://raw.githubusercontent.com/SxtBox/Google_Drive_Folder_Playlisted_API/Albdroid/Screenshots/Advanced_API.png)
 
