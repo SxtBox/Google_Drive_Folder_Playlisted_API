@@ -52,5 +52,5 @@ Smart TV
 VLC Advanced
 ![Logo](https://raw.githubusercontent.com/SxtBox/Google_Drive_Folder_Playlisted_API/Albdroid/Screenshots/VLC_Advanced.png)
 
-VLC_PLAYER
+VLC PLAYER
 ![Logo](https://raw.githubusercontent.com/SxtBox/Google_Drive_Folder_Playlisted_API/Albdroid/Screenshots/VLC_PLAYER.png)
