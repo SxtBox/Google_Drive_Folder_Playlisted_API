@@ -1,8 +1,7 @@
 # Google Drive Streamig API For Sale
 Get All GD Folder Data
-
-# Google Drive Streamig
-
+# NOTE
+# these apps are for demonstration only, if you connect your apps to this api you will lose the connection to our servers.
 # STRUCTURES
 
     Smart TV
