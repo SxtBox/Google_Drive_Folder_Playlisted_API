@@ -31,6 +31,9 @@ Advanced API by Folder ID
 Google Folder ID
 ![Logo](https://raw.githubusercontent.com/SxtBox/Google_Drive_Folder_Playlisted_API/Albdroid/Screenshots/ID_GD.png)
 
+Long Video
+![Logo](https://raw.githubusercontent.com/SxtBox/Google_Drive_Folder_Playlisted_API/Albdroid/Screenshots/Long_Video.png)
+
 JW Player
 ![Logo](https://raw.githubusercontent.com/SxtBox/Google_Drive_Folder_Playlisted_API/Albdroid/Screenshots/JW_Player.png)
 
